@@ -4,31 +4,31 @@ Real-time bot detection tool for Kick.com streamers. Analyze your chat in real-t
 
 # \## ✨ Features
 
-\- \*\*Real-time Analysis\*\* - Monitor chat messages as they happen
+\- Real-time Analysis\*\* - Monitor chat messages as they happen
 
-\- \*\*Advanced Bot Detection\*\* - ML-powered algorithms to identify suspicious accounts
+\- Advanced Bot Detection\*\* - ML-powered algorithms to identify suspicious accounts
 
-\- \*\*Beautiful Dashboard\*\* - Modern UI with live statistics and visualizations
+\- Beautiful Dashboard\*\* - Modern UI with live statistics and visualizations
 
-\- \*\*Kick API Integration\*\* - Works with official Kick.com channels
+\- Kick API Integration\*\* - Works with official Kick.com channels
 
-\- \*\*Professional Metrics\*\* - Bot percentage, confidence scores, and detailed reports
+\- Professional Metrics\*\* - Bot percentage, confidence scores, and detailed reports
 
 # \## 🚀 Live Demo
 
-\*\*\[Try the demo here](YOUR\_DEPLOYMENT\_URL)\*\*
+\[Try the demo here] https://kick-bot-detector.onrender.com/
 
 Test with any Kick channel name to see bot detection in action!
 
 # \## 🛠️ Tech Stack
 
-\- \*\*Frontend\*\*: React + Vite + Modern CSS
+\- Frontend: React + Vite + Modern CSS
 
-\- \*\*Backend\*\*: Node.js + Express + WebSocket
+\- Backend: Node.js + Express + WebSocket
 
-\- \*\*API\*\*: Kick.com official endpoints
+\- API: Kick.com official endpoints
 
-\- \*\*Deployment\*\*: Docker ready
+\- Deployment\*\*: Docker ready
 
 # \## 📊 Bot Detection Features
 
@@ -70,12 +70,7 @@ cd ../frontend
 
 npm install
 
-# ```
-
 # \### Running the Application
-
-
-
 
 \# Terminal 1 - Start backend
 
@@ -95,23 +90,19 @@ npm run dev
 
 \- Backend API: http://localhost:5000
 
-# 
-
 # \## 🐳 Docker Deployment
 
 \# Build and run with Docker Compose
 
 docker-compose up --build
 
-# 
-
 # \## 📈 How It Works
 
-1\. \*\*Connect\*\* to any Kick channel
+1\. Connect to any Kick channel
 
-2\. \*\*Analyze\*\* chat messages in real-time
+2\. Analyze chat messages in real-time
 
-3\. \*\*Detect\*\* bot patterns using multiple algorithms:
+3\. Detect bot patterns using multiple algorithms:
 
    - Username structure analysis
 
@@ -119,47 +110,37 @@ docker-compose up --build
 
    - Behavioral pattern recognition
 
-4\. \*\*Display\*\* results with confidence scores and reasoning
-
-# 
+4\. Display results with confidence scores and reasoning
 
 # \## 🎯 Use Cases
 
-\- \*\*Streamers\*\*: Know your real audience size
+\- Streamers: Know your real audience size
 
-\- \*\*Brands\*\*: Verify authentic engagement for sponsorships
+\- Brands: Verify authentic engagement for sponsorships
 
-\- \*\*Researchers\*\*: Study bot activity on streaming platforms
+\- Researchers: Study bot activity on streaming platforms
 
-\- \*\*Moderators\*\*: Identify and manage suspicious accounts
-
-# 
+\- Moderators: Identify and manage suspicious accounts
 
 # \## 🔮 Future Roadmap
 
-\- \[ ] WebSocket integration when Kick releases official chat API
+\- WebSocket integration when Kick releases official chat API
 
-\- \[ ] Historical data storage and analytics
+\- Historical data storage and analytics
 
-\- \[ ] Export functionality for reports
+\- Export functionality for reports
 
-\- \[ ] Browser extension for streamers
+\- Browser extension for streamers
 
-\- \[ ] Integration with streaming software (OBS, Streamlabs)
-
-# 
+\- Integration with streaming software (OBS, Streamlabs)
 
 # \## 🤝 Contributing
 
 We welcome contributions! Please feel free to submit issues and pull requests.
 
-# 
-
 # \## 📄 License
 
 MIT License - feel free to use this project for commercial purposes.
-
-# 
 
 # \## 📞 Contact
 
@@ -168,8 +149,4 @@ Built with ❤️ for the streaming community.
 
 
 For questions or partnership opportunities, reach out via GitHub issues.
-
-
-
----
 
